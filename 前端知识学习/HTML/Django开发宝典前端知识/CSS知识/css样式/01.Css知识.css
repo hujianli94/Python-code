@@ -1,0 +1,49 @@
+/*1.背景色*/
+p {background-color: white}
+
+/*2.背景图片*/
+/*body {background-image: url("10063W505-6.png")}*/
+
+/*缩进文本*/
+p {
+  text-indent: 5em;
+  font-size:14px;
+}
+
+/*水平对齐*/
+h1
+{
+  color:#00ff00;
+  text-align:center;
+  font-size:30px;
+}
+
+h2 {font-size:30px;}
+
+
+p.date{text-align:right}
+p.main{text-align:justify}
+
+p.ex1
+{
+	font:15px arial,sans-serif;
+}
+
+p.ex2
+{
+	font:italic bold 12px/30px Georgia,serif;
+}
+
+
+table,th,td
+{
+	border:3px solid black;
+    text-align: center;
+
+}
+
+p.ex {color:rgb(0,0,255);}
+p.normal {font-style:normal;}
+p.italic {font-style:italic;}
+p.oblique {font-style:oblique;}
+

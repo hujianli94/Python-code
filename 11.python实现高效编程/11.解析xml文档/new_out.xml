@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<level1 age="1">
+	<level2 age="2">
+		<level3 age="3"/>
+	</level2>
+</level1>

@@ -1,0 +1,5 @@
+在计算机中新建一个文件夹，然后新建三个py文件：
+
+class_urls.py : 获取各商品类别的URL
+page_spider.py：获取详细页面URL，获取页面信息
+main.py：主程序

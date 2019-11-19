@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form name="input" action="">
+    <fieldset>
+        <table>
+
+            <!---------------------单选按钮------------------>
+            <tr>
+                <td>用户名：</td>
+                <td><input type="text" name="name"></td>
+            </tr>
+            <tr>
+                <td>性别:</td>
+                <td>男性<input type="radio" checked="checked" name="Sex" value="male"/></td>
+                <td>女性<input type="radio" name="Sex" value="female"/></td>
+            </tr>
+            <!------------------------下拉列表---------------------->
+            <tr>
+                <td>学历：</td>
+                <td colspan="2">
+                    <select name="grade">
+                        <option value="middle_school">高中及以下</option>
+                        <option value="hight_school">专科</option>
+                        <option value="bachlor_school" selected="selected">本科</option>
+                        <option value="master">研究生及以上</option>
+                    </select>
+                </td>
+            </tr>
+
+            <!-------------多选按钮---------------------------------->
+            <tr>
+                <td rowspan="2">兴趣爱好：</td>
+                <td>运动：<input type="checkbox" name="sport"></td>
+                <td>电影：<input type="checkbox" name="movie"></td>
+                <td>音乐：<input type="checkbox" name="music"></td>
+            </tr>
+            <tr>
+                <td>编程：<input type="checkbox" name="program"></td>
+                <td>下厨：<input type="checkbox" name="cooking"></td>
+                <td>旅游：<input type="checkbox" name="tour"></td>
+            </tr>
+
+
+        </table>
+        <table>
+            <input type="file" id="file" name="myfile"/>
+            <input type="button" onclick="UpladFile()" value="上传"/>
+        </table>
+        <table>
+            <input name="" type="submit" value="保存修改 " class="setbtn_save jsSaveUserInfo">
+        </table>
+    </fieldset>
+</form>
+</body>
+</html>

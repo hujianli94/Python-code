@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>text-transform属性</title>
+</head>
+<style type="text/css">
+    .mydiv{
+        width: auto;
+        margin: 5px;
+        padding: 5px;
+        border: 1px solid#000000;
+    }
+    /* 设置文本修饰 */
+    #tran1{
+        text-transform: none;
+
+    }
+    #tran2{
+        /* 转为大写 */
+        text-transform: capitalize;
+    }
+    #tran3{
+        /* 转为首字母大写 */
+        text-transform: uppercase;
+    }
+    #tran4{
+        /* 转为小写 */
+        text-transform: lowercase;
+    }
+</style>
+<body>
+<div class="mydiv">
+    输入小写的:html+css<br>
+    <input type="text" id="tran1">
+    值为none：无转换发送。
+</div>
+<div class="mydiv">
+    输入小写的:html+css<br>
+    <input type="text" id="tran2">
+    值为capitalize:每个词的首字母大写，只有为小写输入状态转换才发生。
+</div>
+<div class="mydiv">
+    输入小写的:html+css<br>
+    <input type="text" id="tran3">
+    uppercase:转换成大写
+</div>
+
+<div class="mydiv">
+    输入大写的:html+css<br>
+    <input type="text" id="tran4">
+    lowercase:转换成小写
+</div>
+
+
+</body>
+</html>

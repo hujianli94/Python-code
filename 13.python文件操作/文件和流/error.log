@@ -1,0 +1,29 @@
+Traceback (most recent call last):
+  File "D:/GitHub/21_staduy_python/13.python文件操作/文件和流/stderr记录输出异常信息.py", line 16, in <module>
+    raise Exception(t + ' 异常信息')
+Exception: 2019-07-20 11:50:58 异常信息
+Traceback (most recent call last):
+  File "D:/GitHub/21_staduy_python/13.python鏂囦欢鎿嶄綔/鏂囦欢鍜屾祦/stderr璁板綍杈撳嚭寮傚父淇℃伅.py", line 16, in <module>
+    raise Exception(t + ' 寮傚父淇℃伅')
+Exception: 2019-07-20 11:51:23 寮傚父淇℃伅
+2019-07-23 09:43:26 hujianli0001
+hujianli0002
+hujianli0003
+hujianli0004
+hujianli0005
+hujianli0006
+hujianli0007Traceback (most recent call last):
+  File "D:/GitHub/21_staduy_python/13.python鏂囦欢鎿嶄綔/鏂囦欢鍜屾祦/stderr璁板綍杈撳嚭寮傚父淇℃伅.py", line 10, in <module>
+    f = open(r"./hell.txt", "r")
+FileNotFoundError: [Errno 2] No such file or directory: './hell.txt'
+Traceback (most recent call last):
+  File "D:/GitHub/21_staduy_python/13.python鏂囦欢鎿嶄綔/鏂囦欢鍜屾祦/stderr璁板綍杈撳嚭寮傚父淇℃伅.py", line 16, in <module>
+    raise Exception(t + ' 寮傚父淇℃伅')
+Exception: 2019-07-23 09:45:47 寮傚父淇℃伅
+2019-07-23 09:46:10 hujianli0001
+hujianli0002
+hujianli0003
+hujianli0004
+hujianli0005
+hujianli0006
+hujianli0007

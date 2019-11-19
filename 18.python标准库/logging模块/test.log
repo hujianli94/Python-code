@@ -1,0 +1,19 @@
+2019-06-06 16:09:32,800 - logger1 - DEBUG - 这是DEBUG级别信息
+2019-06-06 16:09:32,800 - logger1 - INFO - 这是INFO级别信息
+2019-06-06 16:09:32,800 - logger1 - WARNING - 这是WARNING级别信息
+2019-06-06 16:09:32,800 - logger1 - ERROR - 这是ERROR级别信息
+2019-06-06 16:09:32,800 - logger1 - CRITICAL - 这是CRITICAL级别信息
+2019-06-06 16:09:32,800 - logger1 - INFO - 调用funlog函数。
+2019-06-06 16:09:32,800 - logger1 - INFO - 进入funlog函数
+2019-06-06 16:11:20,281 - MainThread - __main__ - <module> - INFO-这是INFO级别信息.
+2019-06-06 16:11:20,281 - MainThread - __main__ - <module> - WARNING-这是WARNING级别信息.
+2019-06-06 16:11:20,281 - MainThread - __main__ - <module> - ERROR-这是ERROR级别信息。
+2019-06-06 16:11:20,281 - MainThread - __main__ - <module> - CRITICAL-这是CRITICAL级别信息。
+2019-06-06 16:11:20,282 - MainThread - __main__ - <module> - INFO-调用funlog函数。
+2019-06-06 16:11:20,282 - MainThread - __main__ - funlog - INFO-进入funlog函数。
+2019-10-25 20:27:59,336 - MainThread - __main__ - <module> - INFO-这是INFO级别信息.
+2019-10-25 20:27:59,336 - MainThread - __main__ - <module> - WARNING-这是WARNING级别信息.
+2019-10-25 20:27:59,336 - MainThread - __main__ - <module> - ERROR-这是ERROR级别信息。
+2019-10-25 20:27:59,336 - MainThread - __main__ - <module> - CRITICAL-这是CRITICAL级别信息。
+2019-10-25 20:27:59,336 - MainThread - __main__ - <module> - INFO-调用funlog函数。
+2019-10-25 20:27:59,336 - MainThread - __main__ - funlog - INFO-进入funlog函数。

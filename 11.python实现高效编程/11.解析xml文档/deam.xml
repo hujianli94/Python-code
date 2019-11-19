@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>安生&#39;s Blog</title>
+  <subtitle>大好时光！</subtitle>
+  <link href="/atom.xml" rel="self"/>
+
+  <link href="https://blog.ansheng.me/"/>
+  <updated>2016-05-24T15:29:19.000Z</updated>
+  <id>https://blog.ansheng.me/</id>
+
+  <author>
+    <name>安生</name>
+  </author>
+</feed>

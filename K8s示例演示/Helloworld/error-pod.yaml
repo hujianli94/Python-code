@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: hello-world
+  labels:
+    name: hello-world
+spec:
+  restartPolicy: Maybe
+  containers:
+  - name: hello
+    image: "ubuntu:14.04"
+    imagePullPolicy: Always
+    command: ["/bin/echo","Hello","World"]

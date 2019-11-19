@@ -1,0 +1,72 @@
+
+/*CSS 边框属性1*/
+p.one
+{
+	border-style:solid;
+	border-width:3px;
+    border-color:red;
+}
+
+/*CSS 边框属性2*/
+p.two
+{
+	border-style:solid;
+	border-width:medium;
+    border-color:#98bf21;
+}
+/*CSS 边框属性3*/
+p.three
+{
+	border-style:solid;
+	border-width:1px;
+}
+
+
+/*css外边框属性*/
+p.four
+{
+	border:1px solid red;
+	outline:green dotted thick;
+}
+
+
+/*css 填充*/
+p
+{
+	background-color:white;
+}
+
+p.padding
+{
+	padding-top:25px;
+	padding-bottom:25px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+/*浮动*/
+img
+{
+	float:right;
+}
+
+
+
+/*下拉菜单*/
+  .dropdown {
+      position: relative;
+      display: inline-block;
+  }
+
+  .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #f9f9f9;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      padding: 12px 16px;
+  }
+
+  .dropdown:hover .dropdown-content {
+      display: block;
+  }

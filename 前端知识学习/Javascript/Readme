@@ -1,0 +1,32 @@
+JavaScript一种直译式脚本语言，是一种动态类型、弱类型、基于原型的语言，内置支持类型
+
+1.注释
+单行   //
+多行   /*   */
+
+2.引用方式
+
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="commons.js"></script>
+</head>
+<body>
+    <script>
+        alert('derek')
+    </script>
+</body>
+
+1.变量
+局部变量必须一个 var 开头，如果未使用var，则默认表示声明的是全局变量
+
+
+// 全局变量
+name = 'derek';
+
+function demo() {
+    // 局部变量
+    var age = 18;
+    // 全局变量
+    gender = 'M'
+}

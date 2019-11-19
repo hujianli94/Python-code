@@ -1,0 +1,4 @@
+2019-09-17 10:00:16,039 INFO     root       info message
+2019-09-17 10:00:16,039 WARNING  root       warning message
+2019-09-17 10:00:16,040 ERROR    root       error message
+2019-09-17 10:00:16,040 CRITICAL root       critical message

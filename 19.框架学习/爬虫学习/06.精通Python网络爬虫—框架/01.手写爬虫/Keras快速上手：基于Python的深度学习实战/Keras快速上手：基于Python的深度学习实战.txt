@@ -1,0 +1,2 @@
+书籍名称：'"Keras快速上手：基于Python的深度学习实战" '
+下载链接地址：'http://www.xz577.com/e/195.html'

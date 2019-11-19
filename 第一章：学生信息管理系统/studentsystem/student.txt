@@ -1,0 +1,3 @@
+{'c': 70, 'python': 60, 'name': 'hu01', 'id': '1', 'english': 50}
+{'c': 80, 'python': 70, 'name': 'hu02', 'id': '2', 'english': 50}
+{'c': 70, 'python': 80, 'name': 'hu03', 'id': '3', 'english': 90}

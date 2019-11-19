@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: on-failure-restart-pod
+
+spec:
+  restartPolicy: OnFailure
+  containers:
+  - name: container
+    image: ubuntu:14.04
+    command: ["bash","-c","exit 1"]

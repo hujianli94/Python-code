@@ -1,0 +1,3 @@
+出现此报错的原因是使用的mysql8.0 以前用的是：tx_isolation 现在用是：?transaction_isolation
+
+a.通过升级 sqlalchemy 的方法可以解决此问题，?pip install -i https://pypi.tuna.tsinghua.edu.cn/simple --upgrade sqlalchemy --ignore-installed(亲测有效————)

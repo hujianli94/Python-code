@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: nginx
+  labels:
+    env: node1
+
+spec:
+  restartPolicy: OnFailure
+  containers:
+  - name: nginx
+    image: nginx
+    imagePullPolicy: IfNotPresent
+
+  nodeName:
+    hu-k8s-port-worx-node1.symphony.local

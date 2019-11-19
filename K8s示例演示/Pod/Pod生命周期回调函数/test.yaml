@@ -1,0 +1,17 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: my-app
+
+spec:
+  restartPolicy: OnFailure
+  containers:
+  - name: app
+    image: nginx
+    lifecycle:
+      postStart:
+        exec:
+          command:
+            - cat
+            - /tmp/health
+  

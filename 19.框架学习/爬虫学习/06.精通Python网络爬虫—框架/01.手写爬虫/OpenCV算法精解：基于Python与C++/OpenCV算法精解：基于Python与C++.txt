@@ -1,0 +1,2 @@
+书籍名称：'"OpenCV算法精解：基于Python与C++" '
+下载链接地址：'http://www.xz577.com/e/508.html'

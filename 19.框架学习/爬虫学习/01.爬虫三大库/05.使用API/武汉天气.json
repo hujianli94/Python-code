@@ -1,0 +1,113 @@
+{
+    "error_code": 0,
+    "reason": "successed!",
+    "resultcode": "200",
+    "result": {
+        "sk": {
+            "wind_strength": "2级",
+            "temp": "23",
+            "time": "13:44",
+            "wind_direction": "东北风",
+            "humidity": "35%"
+        },
+        "today": {
+            "comfort_index": "",
+            "exercise_index": "较适宜",
+            "weather": "多云",
+            "wind": "东南风微风",
+            "dressing_index": "较舒适",
+            "uv_index": "弱",
+            "city": "武汉",
+            "dressing_advice": "建议着薄外套、开衫牛仔衫裤等服装。年老体弱者应适当添加衣物，宜着夹克衫、薄毛衣等。",
+            "travel_index": "较适宜",
+            "week": "星期一",
+            "date_y": "2019年11月11日",
+            "temperature": "11℃~23℃",
+            "drying_index": "",
+            "wash_index": "较适宜",
+            "weather_id": {
+                "fb": "01",
+                "fa": "01"
+            }
+        },
+        "future": [
+            {
+                "week": "星期一",
+                "weather": "多云",
+                "date": "20191111",
+                "wind": "东南风微风",
+                "temperature": "11℃~23℃",
+                "weather_id": {
+                    "fb": "01",
+                    "fa": "01"
+                }
+            },
+            {
+                "week": "星期二",
+                "weather": "小雨",
+                "date": "20191112",
+                "wind": "南风微风",
+                "temperature": "12℃~21℃",
+                "weather_id": {
+                    "fb": "07",
+                    "fa": "07"
+                }
+            },
+            {
+                "week": "星期三",
+                "weather": "多云转晴",
+                "date": "20191113",
+                "wind": "北风4-5级",
+                "temperature": "5℃~18℃",
+                "weather_id": {
+                    "fb": "00",
+                    "fa": "01"
+                }
+            },
+            {
+                "week": "星期四",
+                "weather": "多云",
+                "date": "20191114",
+                "wind": "南风微风",
+                "temperature": "6℃~20℃",
+                "weather_id": {
+                    "fb": "01",
+                    "fa": "01"
+                }
+            },
+            {
+                "week": "星期五",
+                "weather": "晴",
+                "date": "20191115",
+                "wind": "南风微风",
+                "temperature": "9℃~23℃",
+                "weather_id": {
+                    "fb": "00",
+                    "fa": "00"
+                }
+            },
+            {
+                "week": "星期六",
+                "weather": "小雨",
+                "date": "20191116",
+                "wind": "南风微风",
+                "temperature": "12℃~21℃",
+                "weather_id": {
+                    "fb": "07",
+                    "fa": "07"
+                }
+            },
+            {
+                "week": "星期日",
+                "weather": "多云",
+                "date": "20191117",
+                "wind": "南风微风",
+                "temperature": "6℃~20℃",
+                "weather_id": {
+                    "fb": "01",
+                    "fa": "01"
+                }
+            }
+        ]
+    }
+}

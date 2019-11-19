@@ -1,0 +1,114 @@
+{
+    "resultcode": "200",
+    "error_code": 0,
+    "reason": "Success",
+    "result": {
+        "pn": "3",
+        "rn": "2",
+        "totalNum": "27",
+        "data": [
+            {
+                "albums": [
+                    "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/7/6912_157922.jpg"
+                ],
+                "id": "6912",
+                "title": "西红柿鸡蛋汤",
+                "ingredients": "西红柿,200g;鸡蛋,100g",
+                "tags": "汤;美容;延缓衰老;防辐射;防癌;抗癌;10分钟内;消化不良;开胃;熬;蛋白质;抗衰老;抗氧化;补铁;促消化;汤锅;全菜系;1-2人;防晒;凉血;清热解暑;番茄味;缓解压力",
+                "burden": "油,适量;盐,适量;葱花,5g;香油,适量",
+                "steps": [
+                    {
+                        "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/70/6912_e41fd7a5afef3f3c.jpg",
+                        "step": "1.取出两个西红柿，洗净切好备用。"
+                    },
+                    {
+                        "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/70/6912_f302d59843ce6bfb.jpg",
+                        "step": "2.将葱花切好备用。在锅中倒入少许油，待油微热后放入切好的葱段炝锅。"
+                    },
+                    {
+                        "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/70/6912_33a869d0338378d5.jpg",
+                        "step": "3.放入切好的西红柿翻炒。"
+                    },
+                    {
+                        "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/70/6912_a6d565e0a6cd4de3.jpg",
+                        "step": "4.待炒出西红柿汁液时，倒入适量的水。"
+                    },
+                    {
+                        "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/70/6912_d8e5f7e8eb792801.jpg",
+                        "step": "5.待锅中的水沸腾后，将搅拌均匀的鸡蛋倒入锅中。"
+                    },
+                    {
+                        "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/70/6912_32530a4500f58a17.jpg",
+                        "step": "6.在锅中放入适量的盐，加少许的香油。"
+                    },
+                    {
+                        "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/70/6912_f30f9708c2d647d2.jpg",
+                        "step": "7.待锅开后，即可出锅。"
+                    }
+                ],
+                "imtro": "西红柿鸡蛋汤是妈妈的最爱，小时候每天午餐时，妈妈就会做鸡蛋汤，吃完米饭，喝碗鸡蛋汤是我们的最爱。一碗鸡蛋花中点缀些许西红柿块，视觉上很享受哟。"
+            },
+            {
+                "albums": [
+                    "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/43/42222_824332.jpg"
+                ],
+                "id": "42222",
+                "title": "西红柿鸡蛋汤",
+                "ingredients": "西红柿,2个;鸡蛋,2个",
+                "tags": "美容;延缓衰老;防辐射;防癌;抗癌;消化不良;开胃;增强抵抗力;抗衰老;抗氧化;补铁;促消化;秋季菜谱;防晒;凉血;清热解暑;健脾养胃;缓解压力",
+                "burden": "油,适量;盐,适量",
+                "steps": [
+                    {
+                        "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/423/42222_5f38695c8980d766.jpg",
+                        "step": "1.准备所用材料"
+                    },
+                    {
+                        "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/423/42222_4c92e10643da60c7.jpg",
+                        "step": "2.将2个西红柿削皮备用"
+                    },
+                    {
+                        "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/423/42222_38c997198a4f5281.jpg",
+                        "step": "3.将1个西红柿用刀切成小丁，剩下一个备用"
+                    },
+                    {
+                        "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/423/42222_a095c56e75ec46e7.jpg",
+                        "step": "4.将鸡蛋打入碗中"
+                    },
+                    {
+                        "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/423/42222_11e7932598f15ecd.jpg",
+                        "step": "5.用干净筷子或打蛋器打散成蛋液"
+                    },
+                    {
+                        "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/423/42222_8985eb4918210d9d.jpg",
+                        "step": "6.锅中倒入油，大火加热，放入西红柿煸炒"
+                    },
+                    {
+                        "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/423/42222_652c9735f803e6fc.jpg",
+                        "step": "7.炒至西红柿出红汤后，倒入开水继续用大火煮至汤色变红"
+                    },
+                    {
+                        "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/423/42222_a948ced748ec908f.jpg",
+                        "step": "8.将剩下的另一个西红柿切开放入料理机中"
+                    },
+                    {
+                        "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/423/42222_8bbbe941eabe193e.jpg",
+                        "step": "9.加适量清水后按下按键打成西红柿汁"
+                    },
+                    {
+                        "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/423/42222_bf44c73f6949ef2c.jpg",
+                        "step": "10.将处理好的西红柿汁倒入煮开后的番茄汤"
+                    },
+                    {
+                        "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/423/42222_ab27ba96625ef35c.jpg",
+                        "step": "11.再次煮开后将蛋液打螺旋倒入，这时不要搅动汤，待鸡蛋液成蛋花状后再缓缓把蛋花搅匀"
+                    },
+                    {
+                        "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/423/42222_5c2a521541a970ef.jpg",
+                        "step": "12.最后加适量盐调味，盛起时撒上香菜或葱花即可"
+                    }
+                ],
+                "imtro": "如今物价飞涨的情况下，西红柿鸡蛋汤可谓是物美价廉的产物， 它不仅制作方便，而且还营养丰富。 我做的这款汤属浓汤西红柿，浓汤西红柿的做法是要将西红柿切碎入油锅先炒， 这样更利于西红柿中的脂溶性营养素的溶解。 西红柿里所富含的番茄红素对防治前列腺疾病、前列腺癌有奇效，还有保护心血管。 西红柿里的维生素c可延缓皮肤衰老、增强免疫力等功效。 番茄红素的含量与西红柿中可溶性糖的含量是负相关的关系， 也就是说，越是不甜的西红柿，其中番茄红素含量越高。西红柿颜色越红， 番茄红素含量越高。"
+            }
+        ]
+    }
+}

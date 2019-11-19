@@ -1,0 +1,51 @@
+{#<meta/>#}
+{#定义关于HTML文档的元数据。 重要的属性有三个：http-equiv、name、content#}
+{##}
+{#（1）http-equiv  把content属性值关联到http头部。#}
+{##}
+{#Content-Type（浏览器接受的文档类型，一般是text/html）#}
+{#refresh（网页刷新，以秒为单位）#}
+{#expires（设定网页到期时间，一旦过期，必须到服务器上重传）#}
+{##}
+{#name  把content属性关联到一个名称。#}
+{##}
+{#keywords（搜索关键字，用于搜索引擎抓取信息的显示）#}
+{#description（搜索到网站后显示的网页内容简描述）#}
+{#author（站点制作者信息）#}
+{#generator（用以说明生成工具）#}
+{#content  定义与http-equiv或name属性相关的元信息，是必要的属性#}
+
+
+{#Body标签#}
+{#1.块级标签和内联标签#}
+{#block（块）元素的特点#}
+{##}
+{#① 总是在新行上开始；#}
+{#② 高度，行高以及外边距和内边距都可控制；#}
+{#③ 宽度缺省是它的容器的100%，除非设定一个宽度。#}
+{#④ 它可以容纳内联元素和其他块元素#}
+{##}
+{#inline（内联）元素的特点#}
+{#① 和其他元素都在一行上；#}
+{#② 高，行高及外边距和内边距不可改变；#}
+{#③ 宽度就是它的文字或图片的宽度，不可改变#}
+{#④ 内联元素只能容纳文本或者其他内联元素#}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<h1>标题1</h1>
+<h6>标题6</h6>
+<p>段落</p>
+{#<meta http-equiv="Content-Type" content="text/html ;charset=UTF-8"/>#}
+{#<meta http-equiv="Refresh" content="2">    #过两秒自动刷新#}
+{#<meta http-equiv="Refresh" content="2;URL=https://www.baidu.com">     #过两秒自动跳转到对应的网站#}
+{#<meta http-equiv="expires" content="6 Jun 2016"/>#}
+    <p>主体内容</p>
+</body>
+</html>

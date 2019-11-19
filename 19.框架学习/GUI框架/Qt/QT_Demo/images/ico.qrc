@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="ico">
+    <file>hjl01.ico</file>
+  </qresource>
+  <qresource prefix="png">
+    <file>pacong001.png</file>
+  </qresource>
+</RCC>

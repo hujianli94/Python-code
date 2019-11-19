@@ -1,0 +1,34 @@
+from douban.items import DoubanItem
+from scrapy.selector import Selector
+from scrapy.spider import Spider, Request
+
+class MovieSpider(Spider):
+    # 属性name必须设置，而且是唯一命名，用于运行爬虫
+    name = "Movie"
+    # 设置允许访问域名
+    allowed_domains = ["https://movie.douban.com"]
+    # 设置URL
+    start_urls = 'https://movie.douban.com/subject/%s/comments?start=%s&limit=20&sort=new_score&status=P'
+    # 重写start_requests
+    def start_requests(self):
+        urlsList = self.settings['MOVIEID'].split(',')
+        for u in urlsList:
+            # 每部电影爬取两页的评论
+            for page in range(2):
+                url = self.start_urls %(str(u), str(page * 20))
+                yield Request(url=url, meta={'movieId': str(u)}, callback=self.parse)
+
+    def parse(self, response):
+        # 将响应内容生成Selector，用于数据清洗
+        sel = Selector(response)
+        # 定义DoubanItem对象
+        item = DoubanItem()
+        comments = sel.xpath('//div[@id="comments"]//div[@class="comment"]')
+        commentsList = []
+        for c in comments:
+            movieId = response.meta['movieId']
+            comment = ''.join(c.xpath('.//p//span//text()').extract()).strip()
+            commentsList.append(dict(movieId=movieId, comment=comment))
+        item['movieInfo'] = commentsList
+        yield item
+

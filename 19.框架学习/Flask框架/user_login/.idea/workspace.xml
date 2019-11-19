@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21b16618-72c2-4857-91f4-7d86b1df93ad" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../1.python简单数据类型/print_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1.python简单数据类型/print函数重定向打印.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1.python简单数据类型/set集合/不可变集合.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1.python简单数据类型/内置常量与逻辑运算符、比较运算符/python中的逻辑运算符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1.python简单数据类型/内置常量与逻辑运算符、比较运算符/常用内置常量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1.python简单数据类型/列表/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1.python简单数据类型/列表/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1.python简单数据类型/字典/字典格式化.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1.python简单数据类型/字典/小练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1.python简单数据类型/字符串/字符串对齐.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10.python进阶/使用函数作为函数形参.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10.python进阶/使用函数作为返回值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10.python进阶/用字符串操作对象属性/example1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10.python进阶/简单的高阶函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10.python进阶/递归求和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../10.python进阶/闭包及其应用/闭包与泛型函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../11.python实现高效编程/python标准库/标准库的使用/Python标准库系列之Redis模块/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../11.python实现高效编程/python标准库/标准库的使用/shelve模块/shelve模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13.python文件操作/open函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13.python文件操作/os.path模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13.python文件操作/with语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13.python文件操作/同时对文件进行读写.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13.python文件操作/基本文件操作/创建和打开文件/模拟进度条.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13.python文件操作/目录的迭代/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13.python文件操作/系统操作/文件/copy复制文件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13.python文件操作/系统操作/文件/exists()判断文件是否存在.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13.python文件操作/系统操作/文件/isfile检查file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13.python文件操作/系统操作/文件/link()和symlink().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../14.Python高阶学习(包和模块)/模块和包的导入/main_in.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../15.python操作数据库/ORM/ORM新增数据/ORM新增数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../15.python操作数据库/ORM/ORM连接数据库/orm_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作MariaDB数据库/操作MariaDB数据库.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作Mysql数据库/CentOS 7.0 使用 yum 安装 MariaDB 与 MariaDB 的简单配置.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作Mysql数据库/Python与Mysql的交互/Mysql_base_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作Mysql数据库/Python与Mysql的交互/mysql_env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作Mysql数据库/mysql存储引擎介绍" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作Mysql数据库/python与mysql交互/pymysql_删除操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作Mysql数据库/python与mysql交互/pymysql_插入操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作Mysql数据库/python与mysql交互/pymysql_数据更新操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作Mysql数据库/python与mysql交互/pymysql_无条件的查询.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作Mysql数据库/python与mysql交互/pymysql_有条件的查询.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作Mysql数据库/python操作NOSQL数据类型.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作SQLite数据库/SQLite3操作数据库.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作SQLite数据库/连接sqllite3数据库.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作mongoDB数据库/使用ORM工具操作MongoDB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作mongoDB数据库/操作1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../16.Python网络编程/pyhton小白到大牛网络编程/案例：简单聊天工具/tcp_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../16.Python网络编程/pyhton小白到大牛网络编程/案例：简单聊天工具/tcp_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../16.Python网络编程/socket实现端口扫描.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../16.Python网络编程/明日科技网络编程/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../16.Python网络编程/明日科技网络编程/socket套接字/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../16.Python网络编程/明日科技网络编程/socket套接字/tcp/TCP文件上传工具Client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../16.Python网络编程/明日科技网络编程/socket套接字/tcp/TCP文件上传工具Server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../16.Python网络编程/明日科技网络编程/socket套接字/tcp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../16.Python网络编程/明日科技网络编程/socket套接字/tcp/coco2dxcplus_copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../16.Python网络编程/明日科技网络编程/socket套接字/udp/UDP文件上传下载Client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../16.Python网络编程/明日科技网络编程/socket套接字/udp/UDP文件上传下载Server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../16.Python网络编程/明日科技网络编程/socket套接字/udp/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/1.线程学习/模拟生产者消费者模型.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/1.线程学习/模拟红绿灯.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/2.进程学习/subprocess 模块/Popen类创建进程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/2.进程学习/subprocess 模块/subprocess模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/2.进程学习/使用multiprocessing创建进程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/3.关东升的进程和线程/线程/1.threading001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/3.关东升的进程和线程/线程/2.Thread类实现多线程1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/3.关东升的进程和线程/线程/3.继承Thread类创建多线程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/3.关东升的进程和线程/线程/4.等待线程结束.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/3.关东升的进程和线程/线程/5.线程停止.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/3.关东升的进程和线程/线程/6.线程安全.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/3.关东升的进程和线程/线程/7.多线程同步、互斥锁.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/3.关东升的进程和线程/线程/8.使用Condition实现线程间通信.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/3.关东升的进程和线程/线程/9.使用Event实现线程间通信.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/多线程编程/多线程/继承Thread类创建多线程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/多线程编程/多线程/调用Thread类创建多线程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/4.1对比nginx配置文件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/4.diff模块对比文件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/5.周报邮件带附件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/6.Excel操作模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/Dns模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/Excel2模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/IPy模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/apgparse模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/check_port.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/deploy_mongo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/functools模块的功能函数/函数1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/ips.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/json数据编码.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/logging模块/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/logging模块/logger.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/logging模块/logging日志模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/logging模块/logging读取配置文件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/math模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/python使用telnet模块检测端口.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/python判断主机是否活跃.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/python实现端口扫描1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/random模塊/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/random模塊/randome2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/random模塊/random模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/re正则模块/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/re正则模块/re_compile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/re正则模块/re_compile2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/re正则模块/贪婪匹配和懒惰匹配.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/subprocess 模块/Popen类创建进程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/subprocess 模块/protest9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/subprocess 模块/subprocess上交花束.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/subprocess 模块/subprocess模块学习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/subprocess 模块/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/sys标准库.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/tempfile创建临时文件或目录/tempfile_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/函数相关模块/itertools模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/发送邮件函数封装.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/序列化操作/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/序列化操作/json模块数据解码.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/序列化操作/json模块编码.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/探测web服务器各项指标.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/数据交换格式/CSV模块/CSV数据交换格式-写.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/数据交换格式/CSV模块/CSV数据交换格式-读.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/数据交换格式/CSV模块/test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/数据交换格式/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/数据交换格式/xml模块/1.读取xml文件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/数据交换格式/xml模块/Notes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/数据交换格式/xml模块/使用XPath寻找xml文件指定内容.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../18.python标准库/数据交换格式/xml模块/创建一个有换行的XML文件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21day-python-flask/day1_flask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21day-python-flask/day2_flask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21day-python-flask/day3_flask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21day-python-flask/day4_flask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21day-python-flask/day5_flask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21day-python-flask/day6_flask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21day-python-flask/day7_flask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21day-python-flask/static/linmc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21day-python-flask/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21day-python-flask/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21day-python-flask/test2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/static/96440.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/static_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/templates/upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/upload_file_flask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/user_login.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/panel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/regist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI学习/01.创建一个wx.app子类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI学习/02.直接使用wx.App的方式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI学习/03.使用wx.Frame框架.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI学习/04.文字框输出.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI学习/BoxSizer布局+事件绑定.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI学习/Tkinter GUI编程/Pack布局管理器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI学习/Tkinter GUI编程/command_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI学习/Tkinter GUI编程/haizeiwang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI学习/Tkinter GUI编程/th_test001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI学习/Tkinter GUI编程/tk_test0002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI学习/Tkinter GUI编程/事件绑定.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI学习/使用wx.TextCtrl实现登录界面.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../爬虫学习/1.网络请求.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2.程序结构/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2.程序结构/三元 运算符/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2.程序结构/循环语句/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2.程序结构/循环语句/for循环/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2.程序结构/循环语句/switch语句的替代方案/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2.程序结构/循环语句/while循环/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2.程序结构/循环语句/循环嵌套/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2.程序结构/选择语句/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2.程序结构/选择语句/test_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2.程序结构/选择语句/断言.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../21.数据结构（表、栈和队列）/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../21.数据结构（表、栈和队列）/堆栈/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../21.数据结构（表、栈和队列）/堆栈/python使用列表（压栈）实现深度优先遍历文件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../21.数据结构（表、栈和队列）/堆栈/堆操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../21.数据结构（表、栈和队列）/队列/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../21.数据结构（表、栈和队列）/队列/双端队列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../21.数据结构（表、栈和队列）/队列/队列的rotate()方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3.基础知识/中文字符串处理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../4.内建函数/filter()函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../4.内建函数/map()函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../4.内建函数/reduce()函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../5.function初探/global使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../5.function初探/lambda函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../5.function初探/locals使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../5.function初探/python函数实现冒泡排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../5.function初探/内部函数的局部变量互访.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../5.function初探/函数2/递归函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../5.function初探/函数变量使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../5.function初探/函数类型.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../5.function初探/包裹传参/可变参数2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../5.function初探/多个返回值的函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../5.function初探/局部函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../5.function初探/嵌套函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../5.function初探/简单函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../5.function初探/间接函数调用/内嵌函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7.迭代器、生成器、装饰器/生成器/生成器test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7.迭代器、生成器、装饰器/装饰器/复杂的装饰器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7.迭代器、生成器、装饰器/迭代器和生成器/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7.迭代器、生成器、装饰器/迭代器和生成器/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7.迭代器、生成器、装饰器/迭代器和生成器/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/property2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/本章练习/lianxi1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/类的交互.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/OOP_练习案例/parent_directory/command_option.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/OOP_练习案例/parent_directory/menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/OOP_练习案例/parent_directory/notebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/class_space.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/property装饰器，将方法转为属性,动态属性/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/property装饰器，将方法转为属性,动态属性/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/property装饰器，将方法转为属性,动态属性/property3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/property装饰器，将方法转为属性,动态属性/动态属性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/python的根类/eq方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/python的根类/str方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/python的根类/枚举类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/python的根类/枚举类2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/python的根类/枚举类3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/python类的特殊方法/__del__ 析构方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/python类的特殊方法/__del__方法2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/python类的特殊方法/__dir__方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/python类的特殊方法/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/python类的特殊方法/__repr__方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/python类的特殊方法/getattr和setattr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/python类的特殊方法/与序列相关的特殊方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/为属性添加安全保护机制/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/为属性添加安全保护机制/名称重整保护事宜属性（访问限制）/类的访问权限.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/为属性添加安全保护机制/封装.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/为属性添加安全保护机制/封装性,私有方法和私有属性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/为属性添加安全保护机制/私有方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/以主程序的形式执行/if__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/分页的类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/创建类的成员并访问/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/实例方法/实例方法test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/方法的动态特性/绑定方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/方法重写/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/方法重写/使用super函数调用父类的构造方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/方法重写/使用未绑定的方法调用被重写的方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/构造方法/构造方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/__getattr__和__getattribute__的区别.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/super函数/super函数的执行顺序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/with语句上下文管理/aa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/with语句上下文管理/with语句，写一个open函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/使用isinstance而不是type/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/实现一个迭代器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/对象的自省机制/对象的自省.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/属性描述符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/抽象基类abc模块/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/抽象基类abc模块/抽象基类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/抽象基类abc模块/模拟一个抽象基类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/类中实例属性的查找顺序/类中实例属性的查找顺序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/类中实例属性的查找顺序/类中实例属性的查找顺序2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/类变量和实例变量/类变量和实例变量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/类方法、静态方法、实例方法/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/类方法、静态方法、实例方法/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/类方法、静态方法、实例方法/方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/类方法、静态方法、实例方法/类方法、静态方法和实例方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/自定义元类/元类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/自定义元类/通过type创建类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/自定义元类/通过传入不同的字符串动态的创建不同的类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/魔术方法/__doc__方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/魔术方法/__getitem__方法使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/魔术方法/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/魔术方法/__new__和__init__的区别.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/魔术方法/__slots__ 方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/魔术方法/__slots__方法2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/魔术方法/__str__方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/魔术方法/使用metaclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/魔术方法/使用type函数动态创建类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/魔术方法/数据类型扩展.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/魔术方法/比较运算符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/魔术方法/类的反射.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/类属性和实例属性/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/类成员/字段.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/类的继承/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/类的继承/多重继承.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/类的继承/多重继承2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/类的继承/类型检查.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/类的继承/类的继承2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/类的继承/类的继承4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/类的继承/类的继承性2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/类的继承/继承中self的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/类的继承/继承性1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/类的继承/钻石类的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/鸭子类型和多态/多态.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/鸭子类型和多态/多态性2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/鸭子类型和多态/鸭子类型.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/鸭子类型和多态/鸭子类型2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面对对象学习1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面对对象学习2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面对对象学习3（实例属性）.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../9.异常程序调试/assert语句2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../9.异常程序调试/auction_except_raise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../9.异常程序调试/raise不需要参数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../9.异常程序调试/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../9.异常程序调试/异常else语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../9.异常程序调试/异常堆栈跟踪.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../9.异常程序调试/异常处理1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../9.异常程序调试/异常检测.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../9.异常程序调试/手工抛出异常.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../9.异常程序调试/测试try嵌套.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../9.异常程序调试/简单的try+except使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../9.异常程序调试/自定义异常类2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../9.异常程序调试/自定义异常类3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../9.异常程序调试/自定义异常类4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../代码打包为exe文件/01.用pyexe生成可执行程序/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../前端知识学习/Javascript/Readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../前端知识学习/Javascript/test1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../第一章：学生信息管理系统/1.1需求分析" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../第一章：学生信息管理系统/studentsystem/students2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../第一章：学生信息管理系统/studentsystem/studentsystem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../练习题目/python远程开机.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.python简单数据类型/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.python简单数据类型/列表/列表的高级特性.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1.python简单数据类型/列表/列表的高级特性.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.python简单数据类型/字符串/格式化字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1.python简单数据类型/字符串/格式化字符串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../11.python实现高效编程/10.读写csv文件/csv写文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../11.python实现高效编程/10.读写csv文件/csv写文件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../11.python实现高效编程/10.读写csv文件/some.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../11.python实现高效编程/10.读写csv文件/villains" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../11.python实现高效编程/10.读写csv文件/villains1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../11.python实现高效编程/python标准库/标准库的使用/module/module_test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../11.python实现高效编程/python标准库/标准库的使用/module/module_test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../11.python实现高效编程/python标准库/标准库的使用/module_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../11.python实现高效编程/python标准库/标准库的使用/module_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../11.python实现高效编程/python标准库/标准库的使用/pickle序列化/summer.pk1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../11.python实现高效编程/python标准库/标准库的使用/pickle序列化/summer.pk2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../11.python实现高效编程/python标准库/标准库的使用/zipfile模块/zipfile模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../11.python实现高效编程/python标准库/标准库的使用/zipfile模块/zipfile模块.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3.1基础知识/calc_素数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../3.基础知识/calc_素数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3.1基础知识/for语句的内置迭代函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../3.基础知识/for语句的内置迭代函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3.1基础知识/中文字符串处理.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3.1基础知识/字典的常用方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../3.基础知识/字典的常用方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3.循环语句/for循环/for循环.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3.循环语句/switch语句的替代方案/switch1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3.循环语句/switch语句的替代方案/switch2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3.循环语句/switch语句的替代方案/类的调度方法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3.循环语句/while循环/while语句.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3.循环语句/while循环/打印99乘法表.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3.循环语句/while循环/遍历输出列表.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3.循环语句/循环嵌套/循环嵌套.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../4.内建函数/内建函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../4.内建函数/内建函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5.function初探/example3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../6.推导式初探/example3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5.function初探/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../5.function初探/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5.function初探/函数2/3.定义关键字参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../5.function初探/函数2/3.定义关键字参数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5.function初探/包裹传参/元祖打包传参.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../5.function初探/包裹传参/元祖打包传参.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5.function初探/包裹传参/解包后传参.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../5.function初探/包裹传参/解包后传参.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../6.推导式初探/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../6.推导式初探/字典推导式2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../6.推导式初探/列表推导式.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../6.推导式初探/列表推导式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../6.推导式初探/字典推导式.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../6.推导式初探/字典推导式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7.迭代器、生成器、装饰器/生成器/生成器.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../7.迭代器、生成器、装饰器/生成器/生成器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7.迭代器、生成器、装饰器/装饰器/带参数的装饰器.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../7.迭代器、生成器、装饰器/装饰器/带参数的装饰器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7.迭代器、生成器、装饰器/装饰器/带参数的装饰器1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../7.迭代器、生成器、装饰器/装饰器/带参数的装饰器1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7.迭代器、生成器、装饰器/迭代器/迭代器2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../7.迭代器、生成器、装饰器/迭代器/迭代器2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../8.面对对象编程初探/1.类的方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/创建类的成员并访问/类的方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../8.面对对象编程初探/2.类中的构造方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/创建类的成员并访问/类中的__init__构造方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../8.面对对象编程初探/3.方法重载.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/方法重写/方法重载.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../8.面对对象编程初探/3.类中调用自身方法和函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/创建类的成员并访问/类中调用自身方法和函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../8.面对对象编程初探/4.类属性和实例属性的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/类属性和实例属性/类属性和实例属性的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../8.面对对象编程初探/5.类成员方法和静态方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/类方法、静态方法、实例方法/类成员方法和静态方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../8.面对对象编程初探/6.类的继承.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/类的继承/类的继承.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../8.面对对象编程初探/7.多重继承.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../8.面对对象编程初探/__str__和__repr__ 函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/魔术方法/__str__和__repr__ 函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../8.面对对象编程初探/构造函数和析构函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/魔术方法/构造函数和析构函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/property装饰器，将方法转为属性/example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/property装饰器，将方法转为属性/通过property来访问私有属性.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/property装饰器，将方法转为属性,动态属性/通过property来访问私有属性.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/为属性添加安全保护机制/为属性添加保护2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/property装饰器，将方法转为属性,动态属性/为属性添加保护2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/为属性添加安全保护机制/名称重整保护事宜属性（访问限制）/8.类的公有属性.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/为属性添加安全保护机制/名称重整保护事宜属性（访问限制）/类的公有属性.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/为属性添加安全保护机制/名称重整保护事宜属性（访问限制）/私有属性保护.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/为属性添加安全保护机制/名称重整保护事宜属性（访问限制）/私有属性保护.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/方法重写/super函数调用被覆盖的方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/方法重写/super函数调用被覆盖的方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/方法重写/方法的重写.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/方法重写/方法的重写.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/魔术方法/__call__方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/魔术方法/__call__方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/魔术方法/readme.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/魔术方法/readme.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/魔术方法/构造方法__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/魔术方法/构造方法__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/魔术方法/运算符重载.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/魔术方法/运算符重载.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/魔术方法/魔法方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../8.面对对象编程初探/面向对象程序学习/深入类和对象/魔术方法/魔法方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1.python简单数据类型/深浅拷贝/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/foo_bak.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/foo_bak.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/hujianli.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/hujianli.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/hujianli_bak1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/hujianli_bak1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/hujianli_bak2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/hujianli_bak2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/open函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/上下文管理__enter__和__exit__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/上下文管理__enter__和__exit__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/同时开启2个文件修改后改名/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/同时开启2个文件修改后改名/a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/同时开启2个文件修改后改名/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/同时开启2个文件修改后改名/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/基本文件操作/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/基本文件操作/创建和打开文件/ESXi.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/基本文件操作/创建和打开文件/ESXi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/基本文件操作/创建和打开文件/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/基本文件操作/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/基本文件操作/创建和打开文件/message.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/基本文件操作/创建和打开文件/message.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/基本文件操作/创建和打开文件/message2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/基本文件操作/创建和打开文件/message2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/基本文件操作/创建和打开文件/messages1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/基本文件操作/创建和打开文件/messages1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/基本文件操作/创建和打开文件/open函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/基本文件操作/创建和打开文件/open函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/基本文件操作/创建和打开文件/python逐行读取文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/基本文件操作/创建和打开文件/python逐行读取文件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/基本文件操作/创建和打开文件/写入文件内容.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/基本文件操作/创建和打开文件/写入文件内容.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/基本文件操作/创建和打开文件/打开文件使用with语句.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/基本文件操作/创建和打开文件/打开文件使用with语句.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/基本文件操作/创建和打开文件/读取文件内容.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/基本文件操作/创建和打开文件/读取文件内容.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/定义一个类似open函数的上下文管理器.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/定义一个类似open函数的上下文管理器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/目录操作/os和os.path模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/目录操作/os和os.path模块.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/目录操作/创建目录.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/目录操作/创建目录.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/目录操作/删除目录.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/目录操作/删除目录.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/目录操作/遍历目录.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/目录操作/遍历目录.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/高级文件操作/文件属性信息.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/高级文件操作/文件属性信息.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/高级文件操作/重命名文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/高级文件操作/重命名文件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.1.python文件操作/高级文件操作/高级文件操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/高级文件操作/高级文件操作.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.2.python操作数据库/操作Mysql数据库/CentOS 7.0 使用 yum 安装 MariaDB 与 MariaDB 的简单配置.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.2.python操作数据库/操作Mysql数据库/Python与Mysql的交互/1.连接mysql数据库.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作Mysql数据库/Python与Mysql的交互/1.连接mysql数据库.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.2.python操作数据库/操作Mysql数据库/Python与Mysql的交互/2.创建mysql数据库表.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作Mysql数据库/Python与Mysql的交互/2.创建mysql数据库表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.2.python操作数据库/操作Mysql数据库/Python与Mysql的交互/3.数据库插入语句.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作Mysql数据库/Python与Mysql的交互/3.数据库插入语句.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.2.python操作数据库/操作Mysql数据库/Python与Mysql的交互/4.数据库更新操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作Mysql数据库/Python与Mysql的交互/4.数据库更新操作.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.2.python操作数据库/操作Mysql数据库/Python与Mysql的交互/5.数据库删除操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作Mysql数据库/Python与Mysql的交互/5.数据库删除操作.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.2.python操作数据库/操作Mysql数据库/Python与Mysql的交互/6.数据库查询操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作Mysql数据库/Python与Mysql的交互/6.数据库查询操作.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.2.python操作数据库/操作Mysql数据库/Python与Mysql的交互/Mysql_base_class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.2.python操作数据库/操作Mysql数据库/Python与Mysql的交互/test_mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作Mysql数据库/Python与Mysql的交互/test_mysql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.2.python操作数据库/操作Mysql数据库/connectMysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作Mysql数据库/connectMysql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.2.python操作数据库/操作Mysql数据库/创建表.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作Mysql数据库/创建表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.2.python操作数据库/操作Mysql数据库/封装类.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作Mysql数据库/封装类.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.2.python操作数据库/操作Mysql数据库/操作mysql数据的记录.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作Mysql数据库/操作mysql数据的记录.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.2.python操作数据库/操作SQLite数据库/mrsoft.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作SQLite数据库/mrsoft.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.2.python操作数据库/操作SQLite数据库/操作SQLite步骤，修改.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作SQLite数据库/操作SQLite步骤，修改.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.2.python操作数据库/操作SQLite数据库/操作SQLite步骤，删除.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作SQLite数据库/操作SQLite步骤，删除.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.2.python操作数据库/操作SQLite数据库/操作SQLite步骤，新增.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作SQLite数据库/操作SQLite步骤，新增.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.2.python操作数据库/操作SQLite数据库/操作SQLite步骤，查询.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../15.python操作数据库/操作SQLite数据库/操作SQLite步骤，查询.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.2.python操作数据库/操作SQLite数据库/连接sqllite3数据库.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/1.线程学习/1.添加线程.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/1.线程学习/1.添加线程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/1.线程学习/2.存储队列结果.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/1.线程学习/2.存储队列结果.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/2.进程学习/subprocess 模块/Popen类创建进程.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/2.进程学习/subprocess 模块/subprocess模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../18.python标准库/subprocess 模块/subprocess模块.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/2.进程学习/subprocess 模块/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/2.进程学习/subprocess 模块/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/2.进程学习/使用Process子类创建进程.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/2.进程学习/使用Process子类创建进程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/2.进程学习/使用multiprocessing创建进程.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/2.进程学习/使用进程池Pool创建进程.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/2.进程学习/使用进程池Pool创建进程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/2.进程学习/队列/多进程队列的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/2.进程学习/队列/多进程队列的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/基本文件操作/创建和打开文件/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/Pool进程池.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/Pool进程池.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/Rlock锁的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/Rlock锁的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../14.Python高阶学习(包和模块)/创建和使用包/admin/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/multiprocessing模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/multiprocessing模块.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/threading直接在线程中运行函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/threading直接在线程中运行函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/多线程编程/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../14.Python高阶学习(包和模块)/创建和使用包/home/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/多线程编程/为执行的代码创建线程/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../14.Python高阶学习(包和模块)/创建和使用包/templates/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/多线程编程/为执行的代码创建线程/example1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/多线程编程/为执行的代码创建线程/example1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/多线程编程/多线程/0.threading类来创建线程.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/多线程编程/多线程/0.threading类来创建线程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/多线程编程/多线程/1.example.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/多线程编程/多线程/1.example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/多线程编程/多线程/1.使用threading模块创建线程.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/多线程编程/多线程/1.使用threading模块创建线程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/多线程编程/多线程/2.使用Thread子类创建线程.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/多线程编程/多线程/2.使用Thread子类创建线程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/多线程编程/多线程/3.test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/多线程编程/多线程/3.test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/多线程编程/多线程/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/多线程编程/多线程/使用队列在线程间通信.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/多线程编程/多线程/使用队列在线程间通信.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/多线程编程/多线程/守护进程 daemon=True.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/多线程编程/多线程/守护进程 daemon=True.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/多线程编程/多线程/线程的定义.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/多线程编程/多线程/线程的定义.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/多线程编程/多线程/线程间的通信.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/多线程编程/多线程/线程间的通信.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/多线程编程/多线程/给线程加锁.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/多线程编程/多线程/给线程加锁.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/多线程编程/多线程/递归锁.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/多线程编程/多线程/递归锁.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/多线程编程/生产者消费者模式.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/多线程编程/生产者消费者模式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/多线程编程/线程合并（join方法）主进程等子进程运行完毕.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/多线程编程/线程合并（join方法）主进程等子进程运行完毕.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/多线程编程/线程的创建.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/多线程编程/线程的创建.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/模拟人物对话,Event.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/模拟人物对话,Event.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/进程基础/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/进程基础/deamon属性.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/进程基础/deamon属性.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/进程基础/subprocess模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/进程基础/subprocess模块.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/进程基础/test_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/进程基础/test_process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.3进程和线程/《明日学院》线程和进程/进程基础/使用队列在进程间通信.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/进程基础/使用队列在进程间通信.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.Python高阶学习(包和模块)/from import导入/deam1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../14.Python高阶学习(包和模块)/from import导入/deam1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.Python高阶学习(包和模块)/from import导入/main1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../14.Python高阶学习(包和模块)/from import导入/main1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.Python高阶学习(包和模块)/以主程序的形式执行/christastree.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../14.Python高阶学习(包和模块)/以主程序的形式执行/christastree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.Python高阶学习(包和模块)/以主程序的形式执行/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../14.Python高阶学习(包和模块)/以主程序的形式执行/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.Python高阶学习(包和模块)/创建和使用包/admin/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/多线程编程/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.Python高阶学习(包和模块)/创建和使用包/home/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/多线程编程/为执行的代码创建线程/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.Python高阶学习(包和模块)/创建和使用包/home/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../14.Python高阶学习(包和模块)/创建和使用包/home/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.Python高阶学习(包和模块)/创建和使用包/home/size.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../14.Python高阶学习(包和模块)/创建和使用包/home/size.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.Python高阶学习(包和模块)/创建和使用包/home/size2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../14.Python高阶学习(包和模块)/创建和使用包/home/size2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.Python高阶学习(包和模块)/创建和使用包/templates/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/多线程编程/多线程/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.Python高阶学习(包和模块)/创建和使用包/在包中获取模块的3种方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../14.Python高阶学习(包和模块)/创建和使用包/在包中获取模块的3种方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.Python高阶学习(包和模块)/导入和使用标准模块和三方模块/random随机数模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../14.Python高阶学习(包和模块)/导入和使用标准模块和三方模块/random随机数模块.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.Python高阶学习(包和模块)/模块和包的导入/main2_in.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../14.Python高阶学习(包和模块)/模块和包的导入/main2_in.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.Python高阶学习(包和模块)/模块和包的导入/main_in.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.Python高阶学习(包和模块)/模块和包的导入/readme.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../14.Python高阶学习(包和模块)/模块和包的导入/readme.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.Python高阶学习(包和模块)/模块和包的导入2/eam.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../14.Python高阶学习(包和模块)/模块和包的导入2/eam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.Python高阶学习(包和模块)/模块和包的导入2/通过import导入模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../14.Python高阶学习(包和模块)/模块和包的导入2/通过import导入模块.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.Python高阶学习(包和模块)/模块搜索目录/dir1/calculate.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../14.Python高阶学习(包和模块)/模块搜索目录/dir1/calculate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../9.Python高阶学习(包和模块)/模块搜索目录/dir2/deam.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../14.Python高阶学习(包和模块)/模块搜索目录/dir2/deam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python设计模型/单例设计模式/利用python实现经典的单例模式.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20.python设计模型/单例设计模式/利用python实现经典的单例模式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python设计模型/单例设计模式/单例模式中懒汉式实例化.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20.python设计模型/单例设计模式/单例模式中懒汉式实例化.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python设计模型/设计模式简介/对象.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20.python设计模型/设计模式简介/对象.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python设计模型/设计模式简介/方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20.python设计模型/设计模式简介/方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python设计模型/设计模式简介/类.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20.python设计模型/设计模式简介/类.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python设计模型/面对对象的设计原则/1.开发封闭原则.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20.python设计模型/面对对象的设计原则/1.开发封闭原则.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python设计模型/面对对象的设计原则/2.控制反转原则.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20.python设计模型/面对对象的设计原则/2.控制反转原则.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python设计模型/面对对象的设计原则/3.接口隔离原则.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20.python设计模型/面对对象的设计原则/3.接口隔离原则.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python设计模型/面对对象的设计原则/4.单一职责原则.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20.python设计模型/面对对象的设计原则/4.单一职责原则.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python设计模型/面对对象的设计原则/5.替换原则.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20.python设计模型/面对对象的设计原则/5.替换原则.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python设计模型/面对对象编程的主要概念/多态.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20.python设计模型/面对对象编程的主要概念/多态.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python设计模型/面对对象编程的主要概念/封装.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20.python设计模型/面对对象编程的主要概念/封装.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python设计模型/面对对象编程的主要概念/抽象.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20.python设计模型/面对对象编程的主要概念/抽象.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python设计模型/面对对象编程的主要概念/继承.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20.python设计模型/面对对象编程的主要概念/继承.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/上下文管理器模块contextlib/contextmanager.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/上下文管理器模块contextlib/contextmanager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/使用nonlocal进行修改.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/使用nonlocal进行修改.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/函数与命名空间/a10_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/函数与命名空间/a10_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/函数与命名空间/foo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/函数与命名空间/foo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/函数与命名空间/全局变量.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/函数与命名空间/全局变量.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/常用文件和目录操作/fab1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/常用文件和目录操作/fab1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/常用文件和目录操作/test/周兰乔12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/常用文件和目录操作/test/周兰乔12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/常用文件和目录操作/test/李文34.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/常用文件和目录操作/test/李文34.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/常用文件和目录操作/testexam0.xls" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/常用文件和目录操作/testexam0.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/常用文件和目录操作/便利目录下的所有文件和目录.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/常用文件和目录操作/便利目录下的所有文件和目录.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/常用文件和目录操作/批量重命名.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/常用文件和目录操作/批量重命名.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/常用文件和目录操作/由文件名批量获取姓名和考号.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/常用文件和目录操作/由文件名批量获取姓名和考号.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/常用文件和目录操作/获取当前路径.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/常用文件和目录操作/获取当前路径.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/文件与文件系统/fpa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/文件与文件系统/fpa.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/文件与文件系统/fpb.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/文件与文件系统/fpb.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/文件与文件系统/open函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/文件与文件系统/open函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/文件与文件系统/python.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/文件与文件系统/python.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/文件与文件系统/用fileinput操作文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/文件与文件系统/用fileinput操作文件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/用字典构造分支程序/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/用字典构造分支程序/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/用字符串操作对象属性/example1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/编译可执行文件/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/编译可执行文件/hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/编译可执行文件/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/编译可执行文件/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/递归求和.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/重载类的特殊方法/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/重载类的特殊方法/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/闭包及其应用/a10_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/闭包及其应用/a10_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/闭包及其应用/上下文管理器.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/闭包及其应用/上下文管理器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/闭包及其应用/嵌套函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/闭包及其应用/嵌套函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/闭包及其应用/闭包与延迟求值.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/闭包及其应用/闭包与延迟求值.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/闭包及其应用/闭包与泛型函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python进阶/鸭子类型与多态/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10.python进阶/鸭子类型与多态/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../re模块/re1匹配字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../18.python标准库/re正则模块/re1匹配字符串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../re模块/re2替换字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../18.python标准库/re正则模块/re2替换字符串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../re模块/re3分割字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../18.python标准库/re正则模块/re3分割字符串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../re模块/re4初始化正则.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../18.python标准库/re正则模块/re4初始化正则.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../re模块/re5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../18.python标准库/re正则模块/re5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../re模块/re6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../18.python标准库/re正则模块/re6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../re模块/re实例.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../18.python标准库/re正则模块/re实例.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../re模块/匹配对象与索引使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../18.python标准库/re正则模块/匹配对象与索引使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../re模块/匹配对象与组的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../18.python标准库/re正则模块/匹配对象与组的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../re模块/正则表达式分类.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../18.python标准库/re正则模块/正则表达式分类.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../使用poplib与smtplib库收发邮件/发送邮件模块smtplib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../使用poplib与smtplib库收发邮件/检查email.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../使用poplib与smtplib库收发邮件/简介.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../序列化操作/account.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../../../18.python标准库/序列化操作/account.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../序列化操作/cPickle模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../18.python标准库/序列化操作/cPickle模块.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../序列化操作/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../18.python标准库/序列化操作/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../序列化操作/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../18.python标准库/序列化操作/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../序列化操作/json模块.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../异常程序调试/assert语句2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../异常程序调试/assert语句进行调试.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../9.异常程序调试/assert语句进行调试.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../异常程序调试/异常处理语句.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../9.异常程序调试/异常处理语句.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../异常程序调试/自定义异常类.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../9.异常程序调试/自定义异常类.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构（表、栈和队列）/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17.Python进程和线程/《明日学院》线程和进程/进程基础/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构（表、栈和队列）/堆栈/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2.程序结构/判断语句.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构（表、栈和队列）/堆栈/python使用列表（压栈）实现深度优先遍历文件.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构（表、栈和队列）/堆栈/自定义栈数据结构.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../21.数据结构（表、栈和队列）/堆栈/自定义栈数据结构.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构（表、栈和队列）/队列/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2.程序结构/循环语句.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构（表、栈和队列）/队列/python用队列实现广度优先遍历文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../21.数据结构（表、栈和队列）/队列/python用队列实现广度优先遍历文件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构（表、栈和队列）/队列/简单的队列实例.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../21.数据结构（表、栈和队列）/队列/简单的队列实例.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../目录的迭代/method1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/目录的迭代/method1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../目录的迭代/method2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../13.python文件操作/目录的迭代/method2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../网络编程/socketserver/socketserver_tcp_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../16.Python网络编程/socketserver/socketserver_tcp_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../网络编程/tcp_socket_client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../网络编程/tcp_socket_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../网络编程/udp_socket_client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../网络编程/udp_socket_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../网络编程/urlib与http包使用/简介.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../网络编程/使用smtplib发送邮件.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../16.Python网络编程/使用smtplib发送邮件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../网络编程/明日科技网络编程/socket套接字/tcp/tcp_client编程.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../16.Python网络编程/明日科技网络编程/socket套接字/tcp/tcp_client编程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../网络编程/明日科技网络编程/socket套接字/tcp/tcp_server编程.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../16.Python网络编程/明日科技网络编程/socket套接字/tcp/tcp_server编程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../网络编程/明日科技网络编程/socket套接字/tcp/制作简易的聊天窗口/chat_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../16.Python网络编程/明日科技网络编程/socket套接字/tcp/制作简易的聊天窗口/chat_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../网络编程/明日科技网络编程/socket套接字/tcp/制作简易的聊天窗口/chat_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../16.Python网络编程/明日科技网络编程/socket套接字/tcp/制作简易的聊天窗口/chat_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../网络编程/明日科技网络编程/socket套接字/udp/udp_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../16.Python网络编程/明日科技网络编程/socket套接字/udp/udp_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../网络编程/明日科技网络编程/socket套接字/udp/udp_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../16.Python网络编程/明日科技网络编程/socket套接字/udp/udp_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../网络编程/明日科技网络编程/socket套接字/创建socket对象.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../16.Python网络编程/明日科技网络编程/socket套接字/创建socket对象.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../题目/1/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../练习题目/1/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../题目/2/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../练习题目/2/test.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/user_login$Flask__denglu_py_.coverage" NAME="Flask (app_main.py) Coverage Results" MODIFIED="1561530152678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/Model/User_model.py" />
+        <option value="$PROJECT_DIR$/User_dal/user_dal.py" />
+        <option value="$PROJECT_DIR$/User_dal/dal.py" />
+        <option value="$PROJECT_DIR$/denglu.py" />
+        <option value="$PROJECT_DIR$/templates/home.html" />
+        <option value="$PROJECT_DIR$/templates/login.html" />
+        <option value="$PROJECT_DIR$/templates/regist.html" />
+        <option value="$PROJECT_DIR$/templates/panel.html" />
+        <option value="$PROJECT_DIR$/app_main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="255" />
+    <option name="width" value="1455" />
+    <option name="height" value="860" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="user_login" type="b2602c69:ProjectViewProjectNode" />
+              <item name="user_login" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Flask (app_main.py)" type="Python.FlaskServer" factoryName="Flask server" temporary="true" nameIsGenerated="true">
+      <module name="user_login" />
+      <option name="target" value="$PROJECT_DIR$/app_main.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="user_login" type="Python.FlaskServer" factoryName="Flask server">
+      <module name="user_login" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flask server.Flask (app_main.py)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21b16618-72c2-4857-91f4-7d86b1df93ad" name="默认更改列表" comment="" />
+      <created>1561528915998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561528915998</updated>
+      <workItem from="1561528934480" duration="2223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2223000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1742" height="1126" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14311165" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32997987" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="调试" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32997987" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32997987" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32997987" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="R Packages" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="调试" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32997987" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="6" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.32997987" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.32997987" />
+      <window_info anchor="right" id="R Graphics" order="0" />
+      <window_info anchor="right" id="R Packages" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/User_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/User_dal/dal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding>
+            <element signature="e#101#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/User_dal/user_dal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+          <folding>
+            <element signature="e#106#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/regist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/panel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding>
+            <element signature="e#105#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

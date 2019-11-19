@@ -1,0 +1,176 @@
+python自动化脚本一键部署交易系统
+胡小健
+小健爱吃肉                      
+
+
+小健爱吃肉
+
+
+微信号
+hujianli0722
+
+
+功能介绍
+阳光90后，爱生活、爱旅游、爱美食，爱编程    好久不见，日子和我都有点难过
+hujianli0722
+
+
+琢磨着写了一个脚本。利用pyrhon这门胶水语言。半路出家的人，后期查看用，没写注释。一年后还能看得懂吗？哈哈哈
+
+
+。conding小白一枚。
+
+# -*- coding: utf-8 -*-
+__author__ = 'hujianli'
+import os,shutil,sys,datetime,time,re,json
+import tarfile,subprocess,fileinput
+
+Helper = """
+This script is used to xuntou system update ,use example : python xxx.py 0(....backup)\t
+python xxx.py 1(...update) \t
+python xxx.py 2(...restore)
+"""
+
+db = {
+"host": '127.0.0.1',
+"user": 'root',
+'passwd': 'mysql.rzrk',
+'port': 3306,
+'db_name':'ttmgrportal'
+}
+path_lj = os.path.abspath(os.path.dirname(__file__))
+date_rq = datetime.datetime.now().strftime("%Y%m%d")
+src_file = path_lj + "/" + "server.tar.gz"
+target_path = "/home/rzrk/update/_update/"
+path = "/home/rzrk/backup/"
+file = path + str(date_rq) + "_backup"
+
+def copyFiles(sourceDir, targetDir, ignoreStart):
+for f in os.listdir(sourceDir):
+sourceF = os.path.normpath(os.path.join(sourceDir, f))
+targetF = os.path.normpath(os.path.join(targetDir, f))
+if os.path.isfile(sourceF):
+if len(ignoreStart) > 0 and os.path.basename(sourceF).startswith(ignoreStart):
+continue
+if not os.path.exists(targetDir):
+os.makedirs(targetDir)
+print "copy file from", sourceF, "to", targetF
+shutil.copy2(sourceF, targetF)
+if os.path.isdir(sourceF):
+copyFiles(sourceF, targetF, ignoreStart)
+class backup:
+"""
+class use backup database
+"""
+def __init__(self):
+self.customer = "/home/rzrk/server/config_local/customer.lua"
+self.platform = "/home/rzrk/server/config/platform.lua"
+self.redis_date = "/home/rzrk/redis/data/"
+
+def backfile(self, file):
+os.chdir(path_lj)
+filename = file + "/" + "redis_date/"
+if not os.path.exists(filename):
+os.makedirs(filename)
+shutil.copy2(self.platform, file)
+shutil.copy2(self.customer, file)
+copyFiles(self.redis_date, filename, "")
+print "copy %s and %s to %s "% (self.platform,self.customer,file)
+else:
+print("DIRECTORY ALREADY EXISTS ！！")
+def Tar_file(src_file, target_path):
+try:
+tar = tarfile.open(src_file)
+names = tar.getnames()
+for name in names:
+tar.extract(name, path=target_path)
+print("Extract the complete =====to ===== %s")% target_path
+except Exception as e:
+print("tar file Failure!!!" + str(e))
+finally:
+tar.close()
+
+# def read_process_output(cmd):
+#     #out_data = os.popen(cmd).read().strip()
+#     out_data = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE).communicate()[0].strip()
+#     return out_data
+
+# def copyFiles(sourceDir, targetDir):
+#    if sourceDir.find(".svn") > 0:
+#      return
+#    for file in os.listdir(sourceDir):
+#      sourceFile = os.path.join(sourceDir, file)
+#      targetFile = os.path.join(targetDir, file)
+#      if os.path.isfile(sourceFile):
+#        if not os.path.exists(targetDir):
+#          os.makedirs(targetDir)
+#        if not os.path.exists(targetFile) or(os.path.exists(targetFile) and (os.path.getsize(targetFile) != os.path.getsize(sourceFile))):
+#            open(targetFile, "wb").write(open(sourceFile, "rb").read())
+#      if os.path.isdir(sourceFile):
+#        First_Directory = False
+#        copyFiles(sourceFile, targetFile)
+
+def Mysql_dump():
+try:
+subprocess.call("mysqldump -u%s -p%s %s > %s %s.sql" % (db["user"], db['passwd'], db['db_name'],
+file + "/", date_rq),shell=True)
+except Exception as e:
+print("Mysql数据库 backup data failure!!!!")
+
+def update_backup_server():
+os.chdir(target_path)
+update_file = target_path + "update.sh"
+os.chmod(update_file, 755)
+# if 0 != os.system("/bin/bash update.sh 0"):
+#     print("backup date is failure!!!!")
+# else:
+copyDirs = "/home/rzrk/server"
+try:
+copyFiles(copyDirs, file, "")
+except Exception as e:
+print("failure!!!!!!!" + str(e))
+print("backup complete!!!!inspect === %s ") %(file)
+
+def update_server():
+os.chdir(target_path)
+cmd = '/bin/bash update.sh 1'
+if 0 != os.system(cmd):
+print(u"升级出现文件丢失问题")
+else:
+print(u"升级server包完成。开始导入sql脚本吧!!!!!!")
+time.sleep(5)
+
+class restore(backup):
+def __init__(self):
+backup.__init__(self).__init__()
+
+def restore_cus_pl(self):
+list = os.listdir(file)
+redis = "/home/rzrk/redis/data/"
+if not os.path.exists(redis):
+os.makedirs(redis)
+for files in list:
+if files == "redis_date":
+copyFiles(file + "/" + files, redis,"")
+if files == "customer.lua":
+open(self.customer, "wb").write(files)
+if files == "platform.lua":
+open(self.platform, "wb").write(files)
+print("Restore data successfully !!!")
+
+if __name__ == "__main__":
+if len(sys.argv) < 2:
+print Helper
+else:
+if sys.argv[1] == "0":
+hujianli = backup()
+hujianli.backfile(file)
+Mysql_dump()
+Tar_file(src_file, target_path)
+update_backup_server()
+elif sys.argv[1] == "1":
+update_server()
+elif sys.argv[1] == "2":
+hujianli = restore()
+hujianli.restore_cus_pl()
+
